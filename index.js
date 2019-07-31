@@ -23,6 +23,6 @@ function iLoveTheBeatles (num) {
     return number;
   }
   do {
-    console.log("I love the Beatles");
-} while (incrementVariable() < 5);
+    console.log("I love the Beatles!");
+  } while (incrementVariable() < 5);
 }
