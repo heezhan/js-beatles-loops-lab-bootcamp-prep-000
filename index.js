@@ -22,8 +22,7 @@ function iLoveTheBeatles (num) {
     number = number + 1;
     return number;
   }
- 
-do {
-  console.log("doo-bee-doo-bee-doo");
+  do {
+    console.log("I love the Beatles");
 } while (incrementVariable() < 5);
 }
